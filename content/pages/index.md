@@ -65,7 +65,6 @@ sections:
 
       - dolor sit amet
     form_id: E-mail
-    form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
