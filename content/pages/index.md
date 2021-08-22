@@ -68,6 +68,7 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
+    form_action: e
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
